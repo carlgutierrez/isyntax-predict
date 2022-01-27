@@ -24,7 +24,7 @@ with open('pickleFiles/12-15-ixtow.pickle', 'rb') as f:  # max_length-250
 # max_length = 494
 # model = load_model("models/insertion_sort.h5",
 
-# max_length = 250
+# max_length = 350
 # model = load_model("models/1-24-bilstm.h5",
 
 max_length = 250
